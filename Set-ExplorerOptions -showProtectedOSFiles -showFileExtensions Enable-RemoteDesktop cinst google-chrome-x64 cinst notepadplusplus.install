@@ -1,4 +1,0 @@
-Set-ExplorerOptions -showProtectedOSFiles -showFileExtensions
-Enable-RemoteDesktop
-cinst google-chrome-x64
-cinst notepadplusplus.install
